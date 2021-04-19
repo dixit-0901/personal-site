@@ -8,18 +8,17 @@ body{
     border-width: 5px;
     width: 5%;
   }
-a{
-  text-decoration: none;
-}
 a:link {
   color: #f48b29;
+  text-decoration: none;
 }
 a:visited {
 color: green;
 }
 a:hover{
   color: #2b2e4a;
-  font-size: 110%
+  font-size: 110%;
+  text-decoration: underline;
 }
 h1{
   color: #00917c;
