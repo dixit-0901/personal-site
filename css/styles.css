@@ -2,11 +2,12 @@ body{
   background-color: #caf7e3;
   margin: 0;
 }
-  hr{
-    border-color: #eeebdd;
-    border-style: dotted none none;
+hr{
+    border-color: #00917c;
+    border-style: dashed none none;
     border-width: 5px;
-    width: 5%;
+    width: 35%;
+    margin-left: 5px;
   }
 a:link {
   color: #f48b29;
